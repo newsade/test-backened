@@ -7,7 +7,7 @@ const User = require('./user');
 const app = express();
 
 const corsOptions = {
-  origin: 'http://localhost:3000',
+  origin: 'https://6499872da5895612744b9d50--gorgeous-vacherin-ed86e6.netlify.app',
   optionsSuccessStatus: 200
 };
 
